@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nazlı Anapa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ichbinazli&label=Profile%20views&color=0e75b6&style=flat" alt="ichbinazli" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ichbinazli" alt="ichbinazli" /></a> </p>
 
 - 🌱 I’m currently learning **Unity**
@@ -10,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ichbinazli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichbinazli_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nazl%c4%b1-anapa-650238273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazl%c4%b1-anapa-650238273/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nazlianapa/?igshid=ogq5zdc2odk2za%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nazlianapa/?igshid=ogq5zdc2odk2za%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nazl%c4%b1-anapa-650238273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazl%c4%b1-anapa-650238273/" height="30" width="40" /></a>
+<a href="https://instagram.com/nazlianapa/?igshid=ogq5zdc2odk2za%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazlianapa/?igshid=ogq5zdc2odk2za%3d%3d" height="30" width="40" /></a>
 <a href="https://discord.gg/ichbinazli#7469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ichbinazli#7469" height="30" width="40" /></a>
 </p>
 
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichbinazli&show_icons=true&locale=en&layout=compact" alt="ichbinazli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ichbinazli&show_icons=true&locale=en" alt="ichbinazli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ichbinazli&" alt="ichbinazli" /></p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazlı Anapa</h1>
-- 🌱 I’m currently learning **am**
+- 🌱 I’m currently learning **unity**
 
 - 📫 How to reach me **nazlianapa@hotmail.com**
 

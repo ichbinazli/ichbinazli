@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Unity
 
 - 📫 How to reach me **nazlianapa@hotmail.com**
-- <img align="right" alt="Coding" width="400" src="(http://i.imgur.com/pCzzsma.gif "Pusheen at work")">
+![Pusheen at work](http://i.imgur.com/pCzzsma.gif "Pusheen at work")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

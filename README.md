@@ -1,11 +1,11 @@
-<h1 align="center">
+<h3 align="center">
     <a target="_blank">
     <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
   </a>
 Hi 👋, I'm Nazlı Anapa <a target="_blank">
     <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
   </a>
-</h1>
+</h3>
 <div style="width 100%; display: flex; justify-content: center; align-items: center; text-align: center;" align="center">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
     

@@ -6,11 +6,6 @@ Hi 👋, I'm Nazlı Anapa <a target="_blank">
     <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
   </a>
 </h1>
-<div style="width 100%; display: flex; justify-content: center; align-items: center; text-align: center;" align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
-    
-![Hello](docs/hello.svg)
-</div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 <h3> About Me :</h3> 
 
@@ -35,4 +30,9 @@ Hi 👋, I'm Nazlı Anapa <a target="_blank">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ichbinazli&label=Profile%20Views&color=0&icon=3&pretty=true" />
 </a>
+<div style="width 100%; display: flex; justify-content: center; align-items: center; text-align: center;" align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
+    
+![Hello](docs/hello.svg)
+</div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">

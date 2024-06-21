@@ -4,12 +4,15 @@
   </a>
 Hi 👋, I'm Nazlı Anapa <a target="_blank">
     <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
-  </a></h1>
+  </a> </h1>
+
+![Hello](docs/hello.svg)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 <h3> About Me :</h3>
 
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me **nazlianapa@hotmail.com**
+                                                                                                
 <h3> Connect with me :</h3>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">

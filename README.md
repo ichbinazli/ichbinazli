@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nazlı Anapa</h1>
-- 🌱 I’m currently learning Unity
+<h1 align="center">
+    <a target="_blank">
+    <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
+  </a>
+Hi 👋, I'm Nazlı Anapa <a target="_blank">
+    <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
+  </a></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me **nazlianapa@hotmail.com**
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
-<h3 align="left">Connect with me:</h3>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
+</a>
 <p align="left">
 <a href="https://twitter.com/ichbinazli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichbinazli_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nazl%c4%b1-anapa-650238273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazl%c4%b1-anapa-650238273/" height="30" width="40" /></a>
@@ -18,3 +26,4 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ichbinazli&label=Profile%20Views&color=0&icon=3&pretty=true" />
 </a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">

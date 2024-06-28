@@ -3,7 +3,6 @@
     <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
   </a>
 Hi 👋, I'm Nazlı Anapa <a target="_blank">
-    <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
   </a>
 </h3>
 <div style="width 100%; display: flex; justify-content: center; align-items: center; text-align: center;" align="center">

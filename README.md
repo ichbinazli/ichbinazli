@@ -9,7 +9,6 @@ Hi 👋, I'm Nazlı Anapa <a target="_blank">
     
 ![Hello](docs/hello.svg)
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 <h3> About Me : </h3> 
 
 - 🌱 I’m currently learning Unity

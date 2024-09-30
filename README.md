@@ -1,19 +1,14 @@
-<h3 align="center">
-    <a target="_blank">
-    <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;">
-  </a>
-Hi 👋, I'm Nazlı Anapa <a target="_blank">
-  </a>
-</h3>
+
 <div style="width 100%; display: flex; justify-content: center; align-items: center; text-align: center;" align="center">
     
 ![Hello](docs/hello.svg)
 </div>
-<h3> About Me : </h3> 
+<h3> About Me :    <a target="_blank">
+    <img src="https://github.com/images/mona-whisper.gif" width="40px" style="max-width:100%;"> </h3> 
 
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me **nazlianapa@hotmail.com**                                                                                                
-<h3> Connect with me :</h3>
+<h3> Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/nazl%c4%b1-anapa-650238273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazl%c4%b1-anapa-650238273/" height="30" width="40" /></a>
 </a>

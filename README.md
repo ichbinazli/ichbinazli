@@ -63,4 +63,53 @@ Languages & Tools :
   </tr>
 </table>
 
+<h2 align="center"> Featured Projects</h2>
 
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/ponGo">ponGo</a></td>
+    <td>Real-time multiplayer Pong with 2FA, tournaments</td>
+    <td>Node.js · TypeScript · SQL · Docker</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/rfc1459-irc-server">rfc1459-irc-server</a></td>
+    <td>RFC 1459 compliant IRC server</td>
+    <td>C++98 · BSD Sockets · poll()</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/bash-interpreter">bash-interpreter</a></td>
+    <td>POSIX shell with pipes, redirections, heredoc</td>
+    <td>C · Readline · AST</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/dda-raycaster">dda-raycaster</a></td>
+    <td>Wolfenstein-3D style renderer using DDA ray casting</td>
+    <td>C · MiniLibX · Math</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/dining-philosophers">dining-philosophers</a></td>
+    <td>Deadlock-free simulation using mutexes & semaphores</td>
+    <td>C · pthreads · POSIX</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/yourusername/radix-stack-sorter">radix-stack-sorter</a></td>
+    <td>Two-stack sorting engine using radix algorithm</td>
+    <td>C · Linked Lists</td>
+  </tr>
+
+</table>
+
+</div>

@@ -75,13 +75,13 @@ Languages & Tools :
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/ponGo">ponGo</a></td>
+    <td><a href="https://github.com/ichbinazli/ponGo">ponGo</a></td>
     <td>Real-time multiplayer Pong with 2FA, tournaments</td>
     <td>Node.js · TypeScript · SQL · Docker</td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/rfc1459-irc-server">rfc1459-irc-server</a></td>
+    <td><a href="https://github.com/ichbinazli/irc-server">irc-server</a></td>
     <td>RFC 1459 compliant IRC server</td>
     <td>C++98 · BSD Sockets · poll()</td>
   </tr>

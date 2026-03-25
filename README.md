@@ -34,9 +34,28 @@ Languages & Tools :
   />
 </h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,ts,tailwind,nodejs,nextjs,mysql,git,unity" />
-</p>
+<table align="center">
+  <tr>
+    <td><b>Programming</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,ts" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs" /></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /></td>
+  </tr>
+  <tr>
+    <td><b>Other</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,unity" /></td>
+  </tr>
+</table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 

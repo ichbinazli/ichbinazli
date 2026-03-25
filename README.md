@@ -87,28 +87,41 @@ Languages & Tools :
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/bash-interpreter">bash-interpreter</a></td>
+    <td><a href="https://github.com/ichbinazli/bash-interpreter">bash-interpreter</a></td>
     <td>POSIX shell with pipes, redirections, heredoc</td>
     <td>C · Readline · AST</td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/dda-raycaster">dda-raycaster</a></td>
+    <td><a href="https://github.com/ichbinazli/3D-raycasting">3D-raycasting</a></td>
     <td>Wolfenstein-3D style renderer using DDA ray casting</td>
     <td>C · MiniLibX · Math</td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/dining-philosophers">dining-philosophers</a></td>
+    <td><a href="https://github.com/ichbinazli/dining-philosophers">dining-philosophers</a></td>
     <td>Deadlock-free simulation using mutexes & semaphores</td>
     <td>C · pthreads · POSIX</td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/yourusername/radix-stack-sorter">radix-stack-sorter</a></td>
-    <td>Two-stack sorting engine using radix algorithm</td>
+    <td><a href="https://github.com/ichbinazli/quick_sort">quick_sort</a></td>
+    <td>Two-stack sorting engine using quick_sort algorithm</td>
     <td>C · Linked Lists</td>
   </tr>
+
+   <tr>
+    <td><a href="https://github.com/ichbinazli/b2b">2b2</a></td>
+    <td>System administration project that configures a Linux server environment.</td>
+    <td>C · Debian · Bash · UFW · VirtualBox · Systemd · ssh</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://github.com/ichbinazli/b2b">2b2</a></td>
+    <td>System administration project that configures a Linux server environment.</td>
+    <td>C · Debian · Bash · UFW · VirtualBox · Systemd · ssh</td>
+  </tr
+  
 
 </table>
 

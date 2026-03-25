@@ -117,9 +117,9 @@ Languages & Tools :
   </tr>
 
    <tr>
-    <td><a href="https://github.com/ichbinazli/b2b">2b2</a></td>
-    <td>System administration project that configures a Linux server environment.</td>
-    <td>C · Debian · Bash · UFW · VirtualBox · Systemd · ssh</td>
+    <td><a href="https://github.com/ichbinazli/collecto">collecto</a></td>
+    <td>game that allows you to reach specific targets on the map.</td>
+    <td>C · C++98 · MinilibX · 2D grid · File I/O</td>
   </tr
   
 

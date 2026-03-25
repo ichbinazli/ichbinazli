@@ -1,5 +1,11 @@
-    
+
+ <div align="center">
+  <img src="docs/hello.svg" />
 </div>
+
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
+
 
 <h3 align="center" >About Me :
     <a target="_blank">
@@ -57,8 +63,4 @@ Languages & Tools :
   </tr>
 </table>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<div align="center">
-  <img src="docs/hello.svg" />
-</div>

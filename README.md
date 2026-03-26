@@ -120,9 +120,10 @@ Languages & Tools :
     <td><a href="https://github.com/ichbinazli/collecto">collecto</a></td>
     <td>game that allows you to reach specific targets on the map.</td>
     <td>C · C++98 · MinilibX · 2D grid · File I/O</td>
-  </tr
+   </tr>
   
-
 </table>
 
-</div>
+</div> 
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
